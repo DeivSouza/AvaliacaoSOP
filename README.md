@@ -6,6 +6,7 @@ Este repositório contém uma aplicação Streamlit para visualizar dados financ
 Clone o repositório > Adicione o dataset na pasta do projeto
 
 Execute a aplicação: streamlit run app.py
+
 -----------------------------------------
 
 import streamlit as st
